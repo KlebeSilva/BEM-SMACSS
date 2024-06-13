@@ -1,0 +1,23 @@
+.title {
+    font-size: 48px;
+}
+
+.mensagem {
+    padding: 9px;
+    border: 1px solid #333;
+    border-radius: 8px;
+}
+
+.mensagem-titulo {
+    font-size : 18px;
+    }
+
+.mensagem-conteudo {
+    font-size: 14px;
+}
+
+.mensagem-is-error {
+    border-color: red;
+    background-color: rgb(255, 226, 226);
+    color: red;
+}
